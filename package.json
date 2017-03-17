@@ -1,0 +1,17 @@
+{
+  "name": "fbgraphserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getfacebookfriends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node getfacebookfriends"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "fbgraph": "*"
+  }
+}
