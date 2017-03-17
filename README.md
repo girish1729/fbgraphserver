@@ -8,7 +8,8 @@ When you use facebook integration there is always this pesky interacive
 brower coming in between. I do not like it, not sure about you.
 
 When you do server side work users should be able to use our API without
-using any graphical rubbish. Just curl or some command line tool like
+using any graphical rubbish. Just use
+[curl](http://curl.haxx.se) or some command line tool like
 that.
 
 Here is an attempt to do the same as we can avoid going to browser if we
