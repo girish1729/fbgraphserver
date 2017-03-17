@@ -18,8 +18,6 @@ the browser but only once.
 This project assumes you somehow obainted access token and with that it
 shows the list of friends you have and their display picture.
 
-Screenshots
-========
 ![buddies](https://cloud.githubusercontent.com/assets/6890469/24024507/ff6d1eb6-0ad9-11e7-98f9-2682dbd29e33.gif)
 
 Usage
